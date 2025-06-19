@@ -1,5 +1,6 @@
 # Bitcoin Notarized SignKit
 
+ HEAD
 📜 **Public authorship repository to assert, verify, and defend original Bitcoin protocol development (2008–2025).**  
 This repository contains cryptographic authorship proofs, GPG signatures, and notarized metadata for origin tracing and licensing enforcement.
 
@@ -68,6 +69,10 @@ All rights reserved. Unauthorized use of original Bitcoin protocol authorship is
 Bitcoin integration/staging tree
 
 \# Bitcoin
+=======
+
+# Bitcoin
+>>>>>>> 5bd83f6 (Update README.md)
 
  Maintained by > Symbolic author: **Satoshi Nakamoto**
  
