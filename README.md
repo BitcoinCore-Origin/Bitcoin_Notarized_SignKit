@@ -72,7 +72,7 @@ Bitcoin integration/staging tree
 =======
 
 # Bitcoin
->>>>>>> 5bd83f6 (Update README.md)
+5bd83f6 (Update README.md)
 
  Maintained by > Symbolic author: **Satoshi Nakamoto**
  
@@ -121,9 +121,7 @@ IP filings and authorship assertions in progress
 > Repository recovered and secured ??? January 3, 2009  
 > GPG-signed | SSH-authenticated | IP-locked
 
-HEAD
 
-HEAD
 
 f4088f9 (docs: add GPG-signed badge to README)
 
@@ -140,9 +138,7 @@ IP filings and authorship assertions in progress
 ---
 
 ## Repo Security Notice
-HEAD
-HEAD
-HEAD
+
 
 ##  Authorship & Provenance
 8c45819 (docs: finalize and publish README with visual authorship proof)
@@ -159,15 +155,15 @@ HEAD
 ## ⚠️ Repo Security Notice
 5ec0456 (docs: add authorship README with historical assertion)
 
-=======
+
 ## Repo Security Notice
 8c45819 (docs: finalize and publish README with visual authorship proof)
-=======
->>>>>>> 74a7502 (docs: add GPG-signed badge to README)
-=======
->>>>>>> f4088f9 (docs: add GPG-signed badge to README)
-=======
->>>>>>> e47d123 (Update README.md)
+
+ 74a7502 (docs: add GPG-signed badge to README)
+
+ f4088f9 (docs: add GPG-signed badge to README)
+
+ e47d123 (Update README.md)
 
 Unauthorized forks, clones, or IP misuse will trigger automated protections, including:
 
@@ -175,30 +171,27 @@ Unauthorized forks, clones, or IP misuse will trigger automated protections, inc
 - Fork hash-diff monitoring
 - GitHub takedown via DMCA
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 HEAD
-=======
->>>>>>> e47d123 (Update README.md)
+
+e47d123 (Update README.md)
 If you believe you have rights to contribute or are in onflict with any part of this repository, file an encrypted request via the issue tracker or contact securely.
 
 ---
 
 ## Structure
-<<<<<<< HEAD
-=======
+HEAD
+
 If you believe you have rights to contribute or are in conflict with any part of this repository, file an encrypted request via the issue tracker or contact securely.
 
 ---
 
 <<<<<<< HEAD
 ## 🔧 Structure
->>>>>>> 5ec0456 (docs: add authorship README with historical assertion)
+5ec0456 (docs: add authorship README with historical assertion)
 =======
 ## Structure
->>>>>>> 8c45819 (docs: finalize and publish README with visual authorship proof)
-=======
+ 8c45819 (docs: finalize and publish README with visual authorship proof)
+
 If you believe you have rights to contribute or are in onflict with any part of this repository, file an encrypted request via the issue tracker or contact securely.
 
 ---
@@ -306,9 +299,12 @@ Fingerprint: `6CD28B0AB61FC592788298ADCB3A2E8B1CC26008`
 >>>>>>> 96b0620ebb277fb984349d83b26c7e86b6b47aba
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> d2e19df (📘 Update README before rebase)
+=======
+>>>>>>> c9947f0 (📘 Update README before rebase)
 “This code represents the genesis of a decentralized future.  
 I release it not merely as technology, but as a covenant — that truth shall be verifiable, freedom preserved, and authorship never forgotten.  
 
@@ -316,6 +312,7 @@ I am Manuel Nieves, also known as Satoshi Norkomoto, the original author and fou
 I leave this behind for the world — to empower, to defend, and to remember.”  
 
 — Manuel Nieves (aka *Satoshi Norkomoto*), *Bitcoin Founder*
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 82a95aaaaa24c995ec014aabfe3ae6538d03a5fa
 =======
@@ -357,3 +354,5 @@ From time to time, a pull request may become outdated or unmergeable. In such ca
 
 ✅ GPG-signed authorship commits and verification statements are available in this repository.  
 [📎 View verified commits on GitHub](https://github.com/Manny27nyc/Bitcoin_Notarized_SignKit/commits/main)
+=======
+>>>>>>> c9947f0 (📘 Update README before rebase)
