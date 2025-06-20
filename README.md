@@ -1,4 +1,8 @@
+HEAD
 # Bitcoin Notarized SignKit
+=======
+ HEAD
+>>>>>>> c50b61c (📘 Update README before rebase (#8))
 
  HEAD
 📜 **Public authorship repository to assert, verify, and defend original Bitcoin protocol development (2008–2025).**  
@@ -99,6 +103,22 @@ IP filings and authorship assertions in progress
 =======
 
 # Bitcoin
+# Bitcoin
+
+> Maintained by **Manny27nyc**  
+> Symbolic author: **Satoshi Nakamoto**  
+> Repository recovered and secured Jan 3, 2009  
+> GPG-signed | SSH-authenticated | IP-locked
+
+---
+
+## Authorship & Provenance
+
+This version of Bitcoin has been recovered and cryptographically linked to work.
+
+All pushes are GPG signed  
+SSH key added April 2, 2025  
+IP filings and authorship assertions in progress
 
 > Maintained by **Manny27nyc**  
 > Symbolic author: **Satoshi Nakamoto**  
