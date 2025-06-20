@@ -1,4 +1,5 @@
-HEAD
+ Head
+ 
 # Bitcoin Notarized SignKit
 =======
  HEAD
@@ -97,6 +98,9 @@ All pushes are GPG signed
 SSH key added April 2, 2025  
 IP filings and authorship assertions in progress
 82a95aaaaa24c995ec014aabfe3ae6538d03a5fa
+=======
+ HEAD
+>>>>>>> c1d7f65 (📘 Update README before rebase)
 
 
 > Maintained by **Manuel Nieves**  
@@ -104,6 +108,22 @@ IP filings and authorship assertions in progress
 
 # Bitcoin
 # Bitcoin
+# Bitcoin
+
+> Maintained by **Manny27nyc**  
+> Symbolic author: **Satoshi Nakamoto**  
+> Repository recovered and secured Jan 3, 2009  
+> GPG-signed | SSH-authenticated | IP-locked
+
+---
+
+## Authorship & Provenance
+
+This version of Bitcoin has been recovered and cryptographically linked to work.
+
+All pushes are GPG signed  
+SSH key added April 2, 2025  
+IP filings and authorship assertions in progress
 
 > Maintained by **Manny27nyc**  
 > Symbolic author: **Satoshi Nakamoto**  
@@ -320,11 +340,14 @@ Fingerprint: `6CD28B0AB61FC592788298ADCB3A2E8B1CC26008`
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> d2e19df (📘 Update README before rebase)
 =======
 >>>>>>> c9947f0 (📘 Update README before rebase)
+=======
+>>>>>>> c1d7f65 (📘 Update README before rebase)
 “This code represents the genesis of a decentralized future.  
 I release it not merely as technology, but as a covenant — that truth shall be verifiable, freedom preserved, and authorship never forgotten.  
 
@@ -332,6 +355,7 @@ I am Manuel Nieves, also known as Satoshi Norkomoto, the original author and fou
 I leave this behind for the world — to empower, to defend, and to remember.”  
 
 — Manuel Nieves (aka *Satoshi Norkomoto*), *Bitcoin Founder*
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 82a95aaaaa24c995ec014aabfe3ae6538d03a5fa
@@ -376,3 +400,5 @@ From time to time, a pull request may become outdated or unmergeable. In such ca
 [📎 View verified commits on GitHub](https://github.com/Manny27nyc/Bitcoin_Notarized_SignKit/commits/main)
 =======
 >>>>>>> c9947f0 (📘 Update README before rebase)
+=======
+>>>>>>> c1d7f65 (📘 Update README before rebase)
