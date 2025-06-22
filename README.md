@@ -73,7 +73,6 @@ Manny27nyc-patch-4
 
 # Bitcoin
 # Bitcoin
-# Bitcoin
 
 > Maintained by **Manny27nyc**  
 > Symbolic author: **Satoshi Nakamoto**  
