@@ -1,4 +1,38 @@
+ Head
+
 \# Bitcoin Notarized SignKit
+=======
+# ⚠️ Authorship Notice
+>>>>>>> bb4bac0 (🔐 Added authorship notice to all relevant README files)
+
+Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)  
+This repository contains material from the original Bitcoin protocol development.  
+Use of this code is restricted under the following:
+
+- No commercial use without prior licensing agreement  
+- Redistribution must retain this notice  
+- Forks must clearly indicate derivative status and may not imply origin authorship  
+- GPG-signed authorship declaration must remain intact  
+
+License inquiries: Fordamboy1@gmail.com  
+Authorship fingerprint: B4EC 7343 AB0D BF24  
+# ⚠️ Authorship Notice
+
+Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)  
+This repository contains material from the original Bitcoin protocol development.  
+Use of this code is restricted under the following:
+
+- No commercial use without prior licensing agreement  
+- Redistribution must retain this notice  
+- Forks must clearly indicate derivative status and may not imply origin authorship  
+- GPG-signed authorship declaration must remain intact  
+
+License inquiries: Fordamboy1@gmail.com  
+Authorship fingerprint: B4EC 7343 AB0D BF24  
+# Bitcoin Notarized SignKit
+ HEAD
+ 82a95aa (📘 Update README before rebase (#8))
+ 3377d0c (Add comprehensive License & Authorship section with notarized declaration)
 
 
 
@@ -63,8 +97,6 @@ Manny27nyc-patch-4
 >>>>>>> 375171f (Update README.md (#7))
 =======
 
- da40008 (Revert "Update README.md (#7)" (#10))
- HEAD
  (📘 Update README before rebase)
 
 
@@ -120,7 +152,6 @@ IP filings and authorship assertions in progress
 > Repository recovered and secured ??? January 3, 2009  
 > GPG-signed | SSH-authenticated | IP-locked
 
-HEAD
 
  (docs: add GPG-signed badge to README)
 
@@ -246,11 +277,6 @@ This repository contains:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-# Bitcoin Notarized SignKit
-
-[Bitcoin Authorship Proof](A_formal_digital_image_displays_a_Bitcoin_Protocol.png)
-<<<<<<< HEAD
-=======
 # Bitcoin Notarized SignKit
 
 <<<<<<< HEAD
