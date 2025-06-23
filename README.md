@@ -1,4 +1,3 @@
- HEAD
 # Bitcoin
 
 > Maintained by **Manny27nyc**  
