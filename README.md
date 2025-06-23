@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-HEAD
-HEAD
-HEAD
+Head
+Head
+
+
 # Bitcoin Notarized SignKit
 =======
  HEAD
