@@ -1,20 +1,37 @@
-Head
-Head
-
-
 # Bitcoin Notarized SignKit
-=======
- HEAD
->>>>>>> 82a95aa (📘 Update README before rebase (#8))
 
-=
-\# Bitcoin
+📜 **Public authorship repository to assert, verify, and defend original Bitcoin protocol development (2008–2025).**  
+This repository contains cryptographic authorship proofs, GPG signatures, and notarized metadata for origin tracing and licensing enforcement.
 
-045d4d1 (docs: add GPG authorship verification block to README)
+---
 
-HEAD
-> 📌 Public authorship repository to assert, verify, and defend original Bitcoin protocol development (2008–2025).
+## 🛡️ Authorship Identity
 
+- **GitHub**: [Manny27nyc](https://github.com/Manny27nyc)
+- **Email**: [Fordamboy1@gmail.com](mailto:Fordamboy1@gmail.com)
+- **GPG Fingerprint**: `B4EC 7343 AB0D BF24 — Subkey: 8629 E7C9 7D78 7E22`
+- **Authorship Alias**: *Satoshi Norkomoto*
+
+✅ GPG-signed authorship commits and verification statements are available in this repository.  
+🔗 [View verified commits](https://github.com/Manny27nyc/Bitcoin_Notarized_SignKit/commits/main)
+
+---
+
+## 📦 Notarized Bundles
+
+- [`v1-notarized-authorship.zip`](notarized/v1-notarized-authorship.zip)
+  - Includes: GPG signature, SHA256 hash proofs, README with fingerprint
+
+For licensing, royalties, or legal disputes involving Bitcoin protocol ownership:  
+📩 **Contact**: Fordamboy1@gmail.com
+
+---
+
+## ✅ Contribution & Compliance Policy
+
+- All commits must be GPG-signed and pass CI verification.
+- Pull requests inactive for 15+ days may be marked `stagnant` and auto-closed.
+- Unauthorized forks must declare derivative status and may not claim origin authorship.
 ---
 
 ### 🔐 Authorship Identity
