@@ -18,7 +18,6 @@ This confirms that signature verification and authorship assertion via GPG is **
 ## 🔏 Signature Info
 
 This file was committed with the correct GPG signing key from the `KeyOfGenesis` identity used across authorship claims.
-<<<<<<< HEAD
 HEAD
 
 # SIGN TEST
