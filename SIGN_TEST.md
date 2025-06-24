@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-HEAD
-HEAD
+Head
 
 d5145ea (Update SIGN_TEST.md)
-=======
->>>>>>> 385eb29 (Update SIGN_TEST.md)
+
+385eb29 (Update SIGN_TEST.md)
 # ✅ GPG Signature Test – Verified Commit Signing
 
 This commit was signed using the verified private key under:
