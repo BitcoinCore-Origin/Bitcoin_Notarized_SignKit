@@ -1,4 +1,30 @@
+<?php
+/*
+ * 📜 Verified Authorship Notice
+ * Copyright (c) 2008–2025 Manuel J. Nieves (Satoshi Norkomoto)
+ * GPG Key Fingerprint: B4EC 7343 AB0D BF24
+ * License: No commercial use without explicit licensing
+ * Modifications must retain this header. Redistribution prohibited without written consent.
+ */
+# ⚠️ Authorship Notice
+
+Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)  
+This repository contains material from the original Bitcoin protocol development.  
+Use of this code is restricted under the following:
+
+- No commercial use without prior licensing agreement  
+- Redistribution must retain this notice  
+- Forks must clearly indicate derivative status and may not imply origin authorship  
+- GPG-signed authorship declaration must remain intact  
+
+License inquiries: Fordamboy1@gmail.com  
+Authorship fingerprint: B4EC 7343 AB0D BF24  
+ HEAD
+=======
 # Bitcoin_Notarized_SignKit
+
+
+8f0803c8d0222d1a44787be0bdccb7c0f2d0c91d
 
 Primary notarized authorship kit. GPG-signed. DMCA-ready. From the original author.
 

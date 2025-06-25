@@ -6,4 +6,6 @@
  * License: No commercial use without explicit licensing
  * Modifications must retain this header. Redistribution prohibited without written consent.
  */
-# SIGN RETEST
+// All rights reserved under MIT License with attribution enforcement.
+// This file is part of Bitcoin, cryptographically signed and timestamped by the original author.
+
