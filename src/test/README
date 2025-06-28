@@ -11,6 +11,7 @@ Use of this code is restricted under the following:
 
 License inquiries: Fordamboy1@gmail.com  
 Authorship fingerprint: B4EC 7343 AB0D BF24  
+>>>>>>> origin/main
 The sources in this directory are unit test cases.  Boost includes a
 unit testing framework, and since bitcoin already uses boost, it makes
 sense to simply use this framework rather than require developers to
